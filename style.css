@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+}
+
+.one {
+    width: 200px;
+    height: 200px;
+    border: red solid 1px;
+    border-radius: 100%;
+    /* position: absolute; */
+    /* top: 20px; */
+    /* left: 50px; */
+}
+
+.two {
+    width: 200px;
+    height: 200px;
+    border: green solid 10px;
+    background-color: brown;
+    /* position: absolute; */
+    /* top: 20px; */
+    /* left: 300px; */
+
+}
+
+.three {
+    width: 200px;
+    height: 200px;
+    border: blue solid 1px;
+    /* position: absolute; */
+    /* top: 20px; */
+    /* left: 550px; */
+}
